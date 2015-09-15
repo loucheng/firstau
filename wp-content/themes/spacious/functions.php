@@ -11,6 +11,7 @@
  * @subpackage Spacious
  * @since Spacious 1.0
  */
+add_filter('widget_text', 'do_shortcode');
 
 /**
  * Set the content width based on the theme's design and stylesheet.
