@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.3" created="2015-09-22 07:55" -->
+<!-- generator="WordPress/4.3" created="2015-09-23 12:20" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>First Australia</title>
 	<link>http://localhost/firstau</link>
 	<description></description>
-	<pubDate>Tue, 22 Sep 2015 07:55:35 +0000</pubDate>
+	<pubDate>Wed, 23 Sep 2015 12:20:25 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/firstau</wp:base_site_url>
@@ -37,6 +37,8 @@
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>chenglou@hotmail.com</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
+	<wp:category><wp:term_id>10</wp:term_id><wp:category_nicename>about-us</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[About Us]]></wp:cat_name></wp:category>
+	<wp:category><wp:term_id>11</wp:term_id><wp:category_nicename>test-category</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Test Category]]></wp:cat_name></wp:category>
 	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
 	<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>ml-slider</wp:term_taxonomy><wp:term_slug>34</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[34]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>menu</wp:term_slug><wp:term_name><![CDATA[Menu]]></wp:term_name></wp:term>
@@ -252,116 +254,6 @@
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:540;s:4:"file";s:14:"2015/09/p2.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p2-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:14:"p2-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:14:"p2-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:14:"p2-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:14:"p2-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://localhost/firstau/2015/09/07/12/</link>
-		<pubDate>Mon, 07 Sep 2015 08:45:40 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/07/12/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date>2015-09-07 08:45:40</wp:post_date>
-		<wp:post_date_gmt>2015-09-07 08:45:40</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>12</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>News/Events</title>
-		<link>http://localhost/firstau/2015/09/07/20/</link>
-		<pubDate>Mon, 07 Sep 2015 08:46:32 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/07/20/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date>2015-09-07 08:46:32</wp:post_date>
-		<wp:post_date_gmt>2015-09-07 08:46:32</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>20</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -662,61 +554,6 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/07/about-us/</link>
-		<pubDate>Mon, 07 Sep 2015 10:11:03 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/07/about-us/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date>2015-09-07 10:11:03</wp:post_date>
-		<wp:post_date_gmt>2015-09-07 10:11:03</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>about-us</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
 		<link>http://localhost/firstau/2015/09/07/contact-us/</link>
 		<pubDate>Mon, 07 Sep 2015 10:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -864,61 +701,6 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/11/43/</link>
-		<pubDate>Fri, 11 Sep 2015 01:54:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=43</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>43</wp:post_id>
-		<wp:post_date>2015-09-11 01:54:00</wp:post_date>
-		<wp:post_date_gmt>2015-09-11 01:54:00</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>43</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
 		<link>http://localhost/firstau/2015/09/11/55/</link>
 		<pubDate>Fri, 11 Sep 2015 02:31:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -933,7 +715,7 @@
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>55</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>40</wp:post_parent>
 		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
@@ -945,7 +727,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[43]]></wp:meta_value>
+			<wp:meta_value><![CDATA[175]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -973,40 +755,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Programs</title>
-		<link>http://localhost/firstau/programs/</link>
-		<pubDate>Mon, 07 Sep 2015 08:45:40 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=11</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date>2015-09-07 08:45:40</wp:post_date>
-		<wp:post_date_gmt>2015-09-07 08:45:40</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>programs</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>spacious_page_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title></title>
 		<link>http://localhost/firstau/2015/09/11/56/</link>
 		<pubDate>Fri, 11 Sep 2015 02:31:07 +0000</pubDate>
@@ -1022,7 +770,7 @@
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>56</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>40</wp:post_parent>
 		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
@@ -1034,7 +782,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[43]]></wp:meta_value>
+			<wp:meta_value><![CDATA[175]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1078,7 +826,7 @@
 		<wp:post_name>67</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>19</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1089,7 +837,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[32]]></wp:meta_value>
+			<wp:meta_value><![CDATA[170]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1114,6 +862,122 @@
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://localhost/firstau/?p=167</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?p=167</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>167</wp:post_id>
+		<wp:post_date>2015-09-23 11:52:07</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[164]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_orphaned</wp:meta_key>
+			<wp:meta_value><![CDATA[1443009127]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Programs</title>
+		<link>http://localhost/firstau/?p=171</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?p=171</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>171</wp:post_id>
+		<wp:post_date>2015-09-23 12:10:28</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[171]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[http://www]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_orphaned</wp:meta_key>
+			<wp:meta_value><![CDATA[1443010228]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1144,7 +1008,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[12]]></wp:meta_value>
+			<wp:meta_value><![CDATA[172]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1199,7 +1063,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[12]]></wp:meta_value>
+			<wp:meta_value><![CDATA[172]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1254,7 +1118,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[12]]></wp:meta_value>
+			<wp:meta_value><![CDATA[172]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1309,7 +1173,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[12]]></wp:meta_value>
+			<wp:meta_value><![CDATA[172]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1352,7 +1216,7 @@
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>86</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>15</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
@@ -1364,7 +1228,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[145]]></wp:meta_value>
+			<wp:meta_value><![CDATA[173]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1407,7 +1271,7 @@
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>93</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
@@ -1419,66 +1283,11 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[145]]></wp:meta_value>
+			<wp:meta_value><![CDATA[173]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
 			<wp:meta_value><![CDATA[92]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://localhost/firstau/2015/09/18/99/</link>
-		<pubDate>Fri, 18 Sep 2015 01:19:14 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/99/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>99</wp:post_id>
-		<wp:post_date>2015-09-18 01:19:14</wp:post_date>
-		<wp:post_date_gmt>2015-09-18 01:19:14</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>99</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[145]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[98]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -1517,7 +1326,7 @@
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>102</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>16</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
@@ -1529,7 +1338,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[145]]></wp:meta_value>
+			<wp:meta_value><![CDATA[173]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1572,7 +1381,7 @@
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>105</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>17</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
@@ -1584,7 +1393,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[145]]></wp:meta_value>
+			<wp:meta_value><![CDATA[173]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1639,7 +1448,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[20]]></wp:meta_value>
+			<wp:meta_value><![CDATA[176]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1682,7 +1491,7 @@
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>111</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>107</wp:post_parent>
 		<wp:menu_order>25</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
@@ -1694,7 +1503,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[20]]></wp:meta_value>
+			<wp:meta_value><![CDATA[176]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1737,7 +1546,7 @@
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>115</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>18</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
@@ -1749,7 +1558,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[145]]></wp:meta_value>
+			<wp:meta_value><![CDATA[173]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1793,7 +1602,7 @@
 		<wp:post_name>118</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>19</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1804,66 +1613,11 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[32]]></wp:meta_value>
+			<wp:meta_value><![CDATA[170]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
 			<wp:meta_value><![CDATA[117]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://localhost/firstau/2015/09/22/145/</link>
-		<pubDate>Tue, 22 Sep 2015 04:27:58 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=145</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>145</wp:post_id>
-		<wp:post_date>2015-09-22 04:27:58</wp:post_date>
-		<wp:post_date_gmt>2015-09-22 04:27:58</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>145</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[89]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -1914,7 +1668,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[99]]></wp:meta_value>
+			<wp:meta_value><![CDATA[174]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1969,7 +1723,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[99]]></wp:meta_value>
+			<wp:meta_value><![CDATA[174]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -2024,7 +1778,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[99]]></wp:meta_value>
+			<wp:meta_value><![CDATA[174]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -2049,6 +1803,315 @@
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>About Us</title>
+		<link>http://localhost/firstau/2015/09/23/about-us-2/</link>
+		<pubDate>Wed, 23 Sep 2015 12:09:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?p=170</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>170</wp:post_id>
+		<wp:post_date>2015-09-23 12:09:15</wp:post_date>
+		<wp:post_date_gmt>2015-09-23 12:09:15</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>about-us-2</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[170]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Programs</title>
+		<link>http://localhost/firstau/2015/09/23/programs/</link>
+		<pubDate>Wed, 23 Sep 2015 12:11:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?p=172</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>172</wp:post_id>
+		<wp:post_date>2015-09-23 12:11:46</wp:post_date>
+		<wp:post_date_gmt>2015-09-23 12:11:46</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>programs</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[172]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Get Involved</title>
+		<link>http://localhost/firstau/2015/09/23/get-involved/</link>
+		<pubDate>Wed, 23 Sep 2015 12:15:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?p=173</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>173</wp:post_id>
+		<wp:post_date>2015-09-23 12:15:31</wp:post_date>
+		<wp:post_date_gmt>2015-09-23 12:15:31</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>get-involved</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[173]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Start a Team</title>
+		<link>http://localhost/firstau/2015/09/23/start-a-team/</link>
+		<pubDate>Wed, 23 Sep 2015 12:15:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?p=174</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>174</wp:post_id>
+		<wp:post_date>2015-09-23 12:15:31</wp:post_date>
+		<wp:post_date_gmt>2015-09-23 12:15:31</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>start-a-team</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[173]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[174]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Forums</title>
+		<link>http://localhost/firstau/2015/09/23/forums/</link>
+		<pubDate>Wed, 23 Sep 2015 12:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?p=175</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>175</wp:post_id>
+		<wp:post_date>2015-09-23 12:19:01</wp:post_date>
+		<wp:post_date_gmt>2015-09-23 12:19:01</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>forums</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>20</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[175]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Programs</title>
+		<link>http://localhost/firstau/programs/</link>
+		<pubDate>Mon, 07 Sep 2015 08:45:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?page_id=11</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date>2015-09-07 08:45:40</wp:post_date>
+		<wp:post_date_gmt>2015-09-07 08:45:40</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>programs</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>spacious_page_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2960,133 +3023,58 @@ If your school is interested in hosting a tournament or you would like more info
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Grant Applications</title>
-		<link>http://localhost/firstau/get-involved/grant-applications-3/</link>
-		<pubDate>Fri, 18 Sep 2015 01:22:02 +0000</pubDate>
+		<title>News/Events</title>
+		<link>http://localhost/firstau/2015/09/23/newsevents/</link>
+		<pubDate>Wed, 23 Sep 2015 12:19:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=114</guid>
+		<guid isPermaLink="false">http://localhost/firstau/?p=176</guid>
 		<description></description>
-		<content:encoded><![CDATA[With support from Google Australia, FIRST® Australia
-is funding new robotics teams in the
-FIRST® LEGO® League & FIRST® Robotics Competition programs.
-    
-
-The following information is for teachers, principals, schools, & parents who wish to submit a grant application for a new FIRST® LEGO® League team in 2015/2016.
-Before completing this application, please read the following carefully.
-
-To be eligible, grant applicants must meet the following criteria:
-
-    Students must be in grades 3-10
-    Represent a low SES, rural, remote, indigenous school/community or other under represented group
-    Commit to running a team for the 2015 & 2016 seasons
-    Commit to providing ongoing updates of the team/school throughout 2015-2016 as defined by FIRST® Australia
-    Commit to signing a consent form for FIRST® (Click here to download form)
-    Commit to signing a Media Release (Click for Adult Form or Child Form)
-
-As part of the grant application, applicants will be required to submit a one minute video.  We realise that you may not have produced a video before, but we are confident you can find a way to meet this requirement.
-
-Before completing the application form, applicants should prepare a video as follows:
-
-    Create an original one minute video telling us why you want to bring the FIRST® program to your school/community.
-    Please do not submit videos produced for another project or videos created by others.
-    Do not include any copyrighted images, footage, or music. (For more information visit the Copyright Education site on YouTube.
-    Once you create the video, you must post it on YouTube for us to view or download, then paste the URL of the video into the field in the form below.
-    Please double check that your URL is valid before posting it here (and be sure your video is public – we will not be able to view or judge a video that is set to private).
-    We will not accept videos by email and we will not watch more than one minute. So, make it count!
-
-If you are successful in receiving a grant, you will be supported by FIRST® Australia to start a new FIRST® LEGO® League team by:
-
-    Provision of Equipment
-    Registration Fees for the First Year
-    Mentoring & Support from FIRST® Australia
-
-Ready to apply?  Complete the form below!
-SECOND ROUND of applications now open.   Closing 16 September 2015.
-
- 
-CLICK HERE TO ACCESS APPLICATION FORM]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>114</wp:post_id>
-		<wp:post_date>2015-09-18 01:22:02</wp:post_date>
-		<wp:post_date_gmt>2015-09-18 01:22:02</wp:post_date_gmt>
+		<wp:post_id>176</wp:post_id>
+		<wp:post_date>2015-09-23 12:19:01</wp:post_date>
+		<wp:post_date_gmt>2015-09-23 12:19:01</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>grant-applications-3</wp:post_name>
+		<wp:post_name>newsevents</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>89</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>23</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>spacious_page_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Vision</title>
-		<link>http://localhost/firstau/about-us/vision/</link>
-		<pubDate>Fri, 18 Sep 2015 01:30:19 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=117</guid>
-		<description></description>
-		<content:encoded><![CDATA[<blockquote>To transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology leaders.</blockquote>
-Dean Kamen, Founder
-
-Our mission is to inspire young people to be science and technology leaders, by engaging them in exciting mentor-based programs that build science, engineering and technology skills, that inspire innovation, and that foster well-rounded life capabilities including self-confidence, communication, and leadership.
-
-Dean Kamen is an inventor, entrepreneur, and tireless advocate for science and technology. His passion and determination to help young people discover the excitement and rewards of science and technology are the cornerstones of FIRST® (For Inspiration and Recognition of Science and Technology).
-
-FIRST was founded in 1989 to inspire young people’s interest and participation in science and technology. Based in New Hampshire, USA, the 501 (c) (3) not-for-profit public charity designs accessible, innovative programs that motivate young people to pursue education and career opportunities in science, technology, engineering, and math, while building self-confidence, knowledge, and life skills.
-FIRST Values
-Gracious Professionalism®
-
-Dr. Woodie Flowers, FIRST National Advisor and Pappalardo Professor Emeritus of Mechanical Engineering, Massachusetts Institute of Technology, coined the term “Gracious Professionalism®.”
-
-<iframe src="https://www.youtube.com/embed/h2e6gxczMxc" width="700" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-Gracious Professionalism is part of the ethos of FIRST. It’s a way of doing things that encourages high-quality work, emphasizes the value of others, and respects individuals and the community.
-
-With Gracious Professionalism, fierce competition and mutual gain are not separate notions. Gracious professionals learn and compete like crazy, but treat one another with respect and kindness in the process. They avoid treating anyone like losers. No chest thumping tough talk, but no sticky-sweet platitudes either. Knowledge, competition, and empathy are comfortably blended.
-
-In the long run, Gracious Professionalism is part of pursuing a meaningful life. One can add to society and enjoy the satisfaction of knowing one has acted with integrity and sensitivity.
-Coopertition®
-
-Coopertition® produces innovation. At FIRST, Coopertition is displaying unqualified kindness and respect in the face of fierce competition. Coopertition is founded on the concept and a philosophy that teams can and should help and cooperate with each other even as they compete.
-
-Coopertition involves learning from teammates. It is teaching teammates. It is learning from Mentors. And it is managing and being managed. Coopertition means competing always, but assisting and enabling others when you can.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>117</wp:post_id>
-		<wp:post_date>2015-09-18 01:30:19</wp:post_date>
-		<wp:post_date_gmt>2015-09-18 01:30:19</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>vision</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>19</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[176]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>spacious_page_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3448,6 +3436,136 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Grant Applications</title>
+		<link>http://localhost/firstau/get-involved/grant-applications-3/</link>
+		<pubDate>Fri, 18 Sep 2015 01:22:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?page_id=114</guid>
+		<description></description>
+		<content:encoded><![CDATA[With support from Google Australia, FIRST® Australia
+is funding new robotics teams in the
+FIRST® LEGO® League & FIRST® Robotics Competition programs.
+    
+
+The following information is for teachers, principals, schools, & parents who wish to submit a grant application for a new FIRST® LEGO® League team in 2015/2016.
+Before completing this application, please read the following carefully.
+
+To be eligible, grant applicants must meet the following criteria:
+
+    Students must be in grades 3-10
+    Represent a low SES, rural, remote, indigenous school/community or other under represented group
+    Commit to running a team for the 2015 & 2016 seasons
+    Commit to providing ongoing updates of the team/school throughout 2015-2016 as defined by FIRST® Australia
+    Commit to signing a consent form for FIRST® (Click here to download form)
+    Commit to signing a Media Release (Click for Adult Form or Child Form)
+
+As part of the grant application, applicants will be required to submit a one minute video.  We realise that you may not have produced a video before, but we are confident you can find a way to meet this requirement.
+
+Before completing the application form, applicants should prepare a video as follows:
+
+    Create an original one minute video telling us why you want to bring the FIRST® program to your school/community.
+    Please do not submit videos produced for another project or videos created by others.
+    Do not include any copyrighted images, footage, or music. (For more information visit the Copyright Education site on YouTube.
+    Once you create the video, you must post it on YouTube for us to view or download, then paste the URL of the video into the field in the form below.
+    Please double check that your URL is valid before posting it here (and be sure your video is public – we will not be able to view or judge a video that is set to private).
+    We will not accept videos by email and we will not watch more than one minute. So, make it count!
+
+If you are successful in receiving a grant, you will be supported by FIRST® Australia to start a new FIRST® LEGO® League team by:
+
+    Provision of Equipment
+    Registration Fees for the First Year
+    Mentoring & Support from FIRST® Australia
+
+Ready to apply?  Complete the form below!
+SECOND ROUND of applications now open.   Closing 16 September 2015.
+
+ 
+CLICK HERE TO ACCESS APPLICATION FORM]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date>2015-09-18 01:22:02</wp:post_date>
+		<wp:post_date_gmt>2015-09-18 01:22:02</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>grant-applications-3</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>89</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>spacious_page_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Vision</title>
+		<link>http://localhost/firstau/about-us/vision/</link>
+		<pubDate>Fri, 18 Sep 2015 01:30:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?page_id=117</guid>
+		<description></description>
+		<content:encoded><![CDATA[<blockquote>To transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology leaders.</blockquote>
+Dean Kamen, Founder
+
+Our mission is to inspire young people to be science and technology leaders, by engaging them in exciting mentor-based programs that build science, engineering and technology skills, that inspire innovation, and that foster well-rounded life capabilities including self-confidence, communication, and leadership.
+
+Dean Kamen is an inventor, entrepreneur, and tireless advocate for science and technology. His passion and determination to help young people discover the excitement and rewards of science and technology are the cornerstones of FIRST® (For Inspiration and Recognition of Science and Technology).
+
+FIRST was founded in 1989 to inspire young people’s interest and participation in science and technology. Based in New Hampshire, USA, the 501 (c) (3) not-for-profit public charity designs accessible, innovative programs that motivate young people to pursue education and career opportunities in science, technology, engineering, and math, while building self-confidence, knowledge, and life skills.
+FIRST Values
+Gracious Professionalism®
+
+Dr. Woodie Flowers, FIRST National Advisor and Pappalardo Professor Emeritus of Mechanical Engineering, Massachusetts Institute of Technology, coined the term “Gracious Professionalism®.”
+
+<iframe src="https://www.youtube.com/embed/h2e6gxczMxc" width="700" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+Gracious Professionalism is part of the ethos of FIRST. It’s a way of doing things that encourages high-quality work, emphasizes the value of others, and respects individuals and the community.
+
+With Gracious Professionalism, fierce competition and mutual gain are not separate notions. Gracious professionals learn and compete like crazy, but treat one another with respect and kindness in the process. They avoid treating anyone like losers. No chest thumping tough talk, but no sticky-sweet platitudes either. Knowledge, competition, and empathy are comfortably blended.
+
+In the long run, Gracious Professionalism is part of pursuing a meaningful life. One can add to society and enjoy the satisfaction of knowing one has acted with integrity and sensitivity.
+Coopertition®
+
+Coopertition® produces innovation. At FIRST, Coopertition is displaying unqualified kindness and respect in the face of fierce competition. Coopertition is founded on the concept and a philosophy that teams can and should help and cooperate with each other even as they compete.
+
+Coopertition involves learning from teammates. It is teaching teammates. It is learning from Mentors. And it is managing and being managed. Coopertition means competing always, but assisting and enabling others when you can.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>117</wp:post_id>
+		<wp:post_date>2015-09-18 01:30:19</wp:post_date>
+		<wp:post_date_gmt>2015-09-18 01:30:19</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>vision</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>spacious_page_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Start an FLL Team</title>
 		<link>http://localhost/firstau/get-involved/start-a-team/start-an-fll-team/</link>
 		<pubDate>Tue, 22 Sep 2015 07:21:43 +0000</pubDate>
@@ -3603,6 +3721,48 @@ FRC requires more time, money, space and manpower than FLL or FTC, but the rewar
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Test</title>
+		<link>http://localhost/firstau/test-2/</link>
+		<pubDate>Wed, 23 Sep 2015 11:51:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?page_id=164</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>164</wp:post_id>
+		<wp:post_date>2015-09-23 11:51:44</wp:post_date>
+		<wp:post_date_gmt>2015-09-23 11:51:44</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>test-2</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>spacious_page_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1443009318]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
