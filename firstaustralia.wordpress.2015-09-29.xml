@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.3" created="2015-09-23 12:20" -->
+<!-- generator="WordPress/4.3" created="2015-09-29 06:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>First Australia</title>
 	<link>http://localhost/firstau</link>
 	<description></description>
-	<pubDate>Wed, 23 Sep 2015 12:20:25 +0000</pubDate>
+	<pubDate>Tue, 29 Sep 2015 06:47:19 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/firstau</wp:base_site_url>
@@ -569,7 +569,7 @@
 		<wp:post_name>contact-us</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>26</wp:menu_order>
+		<wp:menu_order>27</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -648,7 +648,7 @@
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>first-robotics-australia-annoucements</wp:post_name>
-		<wp:status>private</wp:status>
+		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>forum</wp:post_type>
@@ -727,7 +727,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[175]]></wp:meta_value>
+			<wp:meta_value><![CDATA[181]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -771,7 +771,7 @@
 		<wp:post_name>56</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>40</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>23</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -782,7 +782,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[175]]></wp:meta_value>
+			<wp:meta_value><![CDATA[181]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1162,7 +1162,7 @@
 		<wp:post_name>83</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>89</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1217,7 +1217,7 @@
 		<wp:post_name>86</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>89</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
+		<wp:menu_order>16</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1272,7 +1272,7 @@
 		<wp:post_name>93</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>89</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
+		<wp:menu_order>20</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1327,7 +1327,7 @@
 		<wp:post_name>102</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>89</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
+		<wp:menu_order>17</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1382,7 +1382,7 @@
 		<wp:post_name>105</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>89</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:menu_order>18</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1437,7 +1437,7 @@
 		<wp:post_name>108</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>24</wp:menu_order>
+		<wp:menu_order>25</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1492,7 +1492,7 @@
 		<wp:post_name>111</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>107</wp:post_parent>
-		<wp:menu_order>25</wp:menu_order>
+		<wp:menu_order>26</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1547,7 +1547,7 @@
 		<wp:post_name>115</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>89</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
+		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1657,7 +1657,7 @@
 		<wp:post_name>148</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>98</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
+		<wp:menu_order>13</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1712,7 +1712,7 @@
 		<wp:post_name>153</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>98</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
+		<wp:menu_order>15</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1767,7 +1767,7 @@
 		<wp:post_name>155</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>98</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
+		<wp:menu_order>14</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1932,7 +1932,7 @@
 		<wp:post_name>get-involved</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1987,7 +1987,7 @@
 		<wp:post_name>start-a-team</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
+		<wp:menu_order>12</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2026,23 +2026,23 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Forums</title>
-		<link>http://localhost/firstau/2015/09/23/forums/</link>
+		<title>News/Events</title>
+		<link>http://localhost/firstau/2015/09/23/newsevents/</link>
 		<pubDate>Wed, 23 Sep 2015 12:19:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=175</guid>
+		<guid isPermaLink="false">http://localhost/firstau/?p=176</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>175</wp:post_id>
+		<wp:post_id>176</wp:post_id>
 		<wp:post_date>2015-09-23 12:19:01</wp:post_date>
 		<wp:post_date_gmt>2015-09-23 12:19:01</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>forums</wp:post_name>
+		<wp:post_name>newsevents</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>24</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2057,7 +2057,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[175]]></wp:meta_value>
+			<wp:meta_value><![CDATA[176]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -2961,7 +2961,107 @@ If your school is interested in hosting a tournament or you would like more info
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/firstau/?page_id=107</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[Asia Pacific FTC Invitational results
+July 17, 2015
+Congratulations to all the teams who competed in the Asia Pacific FTC Invitational 2015!
+
+Special commendations to all our award winners:
+
+Judges Award: 1060 H.I.I. (China)
+Judges Award: 6872 CP Bots (Mexico)
+Connect Award Winner: 5169 Watt’s Up (USA).
+Connect
+… Continued
+Asia Pacific Open Championship Results
+July 17, 2015
+Congratulations to all teams who competed at the Asia Pacific Open Championship on the 10th – 12th July!
+
+Special commendations to all our award winners:
+
+‘Against all odds’ Judges Award – Fusion Core X, Pakistan
+‘Rising Star’ Judges Award – 
+… Continued
+News from GOOGLE Australia!
+May 4, 2015
+Google CS logo
+
+ 
+
+Empowering all students to create with technology through free computer science clubs
+
+ 
+
+CS First provides free, easy-to-use computer science (CS) enrichment materials that target and engage a diverse student population.
+
+ 
+
+Program Overview
+
+CS First is a free … Continued
+
+2015 Australia FRC Regional results
+March 16, 2015
+The Inaugural FIRST Robotics Competition Australia Regional was held last week (12th-14th March) to great success!  Held at the Sydney Olympic Sports Centre on March 13-14, 33 high school student teams competed to earn a spot at the FIRST Championship, … Continued
+
+LEGO Education Conference with Chris Rogers
+February 16, 2015
+Professor Chris Rogers has been invited to Australia to work with Primary and Secondary teachers interested in making use of LEGO materials to support learning across the Australian Curriculum (STEM and Humanities).  He will be the keynote speaker during the … Continued
+
+National FTC Tournament Results
+December 9, 2014
+Congratulations to all teams who competed in the Australian National FTC Championship at Macquarie University on December 6th/7th, 2014; it was an incredible tournament, and we saw some incredible performance by everyone.
+
+A special congratulations to all the award winners below:
+
+ 
+
+Award
+
+… Continued
+National FLL Tournament Results
+December 9, 2014
+Congratulations to all teams who competed in the Australian National FLL Championship at Macquarie University on December 6th, 2014; it was an incredible tournament, and we saw some incredible performance by everyone.
+
+A special congratulations to all the award winners below:
+
+ … Continued
+
+Wollongong Regional Results
+November 30, 2014
+Congratulations to the following award winners who competed in the Wollongong FLL Regional at Cedars Christian College on November 29th, 2014:
+
+ 
+
+Award Winners
+
+Robot Performance Award:   Project Bucephalus
+Robot Design Award: Robo Knights United
+Project Award: The Fire Breathing
+… Continued
+Garden’s Point Regional Results
+November 25, 2014
+Congratulations to the following award winners who competed in the FLL Regional at QUT Garden’s Point Campus on November 22nd, 2014:
+
+ 
+
+Award Winners
+
+Robot Performance Award: Fanatical LEGO Lovers
+Mechanical Design Award: Kedron SHS 1
+Programming Award: RACHEJJET
+Strategy &
+… Continued
+Adelaide Regional Results
+November 25, 2014
+Congratulations to the following award winners who competed in the Adelaide FLL Regional on November 16th, 2014:
+
+ 
+
+Award Winners
+
+Judges Award – “Rising Star“:   STORM
+Judges Award – “FLL Community Involvement“: STUD
+Judges Award –]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date>2015-09-18 01:19:47</wp:post_date>
@@ -2989,64 +3089,85 @@ If your school is interested in hosting a tournament or you would like more info
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Seasonal Events</title>
-		<link>http://localhost/firstau/news-and-events/seasonal-events/</link>
-		<pubDate>Fri, 18 Sep 2015 01:19:54 +0000</pubDate>
+		<title></title>
+		<link>http://localhost/firstau/2015/09/29/180/</link>
+		<pubDate>Tue, 29 Sep 2015 06:39:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=110</guid>
+		<guid isPermaLink="false">http://localhost/firstau/?p=180</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>110</wp:post_id>
-		<wp:post_date>2015-09-18 01:19:54</wp:post_date>
-		<wp:post_date_gmt>2015-09-18 01:19:54</wp:post_date_gmt>
+		<wp:post_id>180</wp:post_id>
+		<wp:post_date>2015-09-29 06:39:30</wp:post_date>
+		<wp:post_date_gmt>2015-09-29 06:39:30</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>seasonal-events</wp:post_name>
+		<wp:post_name>180</wp:post_name>
 		<wp:status>publish</wp:status>
-		<wp:post_parent>107</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>spacious_page_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>News/Events</title>
-		<link>http://localhost/firstau/2015/09/23/newsevents/</link>
-		<pubDate>Wed, 23 Sep 2015 12:19:01 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=176</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>176</wp:post_id>
-		<wp:post_date>2015-09-23 12:19:01</wp:post_date>
-		<wp:post_date_gmt>2015-09-23 12:19:01</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>newsevents</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:post_parent>11</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[172]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[178]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://localhost/firstau/2015/09/29/181/</link>
+		<pubDate>Tue, 29 Sep 2015 06:39:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?p=181</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>181</wp:post_id>
+		<wp:post_date>2015-09-29 06:39:31</wp:post_date>
+		<wp:post_date_gmt>2015-09-29 06:39:31</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>181</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>21</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -3054,11 +3175,11 @@ If your school is interested in hosting a tournament or you would like more info
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[176]]></wp:meta_value>
+			<wp:meta_value><![CDATA[40]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_target</wp:meta_key>
@@ -3436,6 +3557,40 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Seasonal Events</title>
+		<link>http://localhost/firstau/news-and-events/seasonal-events/</link>
+		<pubDate>Fri, 18 Sep 2015 01:19:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?page_id=110</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>110</wp:post_id>
+		<wp:post_date>2015-09-18 01:19:54</wp:post_date>
+		<wp:post_date_gmt>2015-09-18 01:19:54</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>seasonal-events</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>107</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>spacious_page_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Grant Applications</title>
 		<link>http://localhost/firstau/get-involved/grant-applications-3/</link>
 		<pubDate>Fri, 18 Sep 2015 01:22:02 +0000</pubDate>
@@ -3763,6 +3918,108 @@ FRC requires more time, money, space and manpower than FLL or FTC, but the rewar
 		<wp:postmeta>
 			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
 			<wp:meta_value><![CDATA[1443009318]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>FIRST Robotics Competition</title>
+		<link>http://localhost/firstau/programs/first-robotics-competition/</link>
+		<pubDate>Tue, 29 Sep 2015 06:36:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/firstau/?page_id=178</guid>
+		<description></description>
+		<content:encoded><![CDATA[<iframe width="700" height="400" src="https://www.youtube.com/embed/ncgK1gyJnAI" frameborder="0" allowfullscreen></iframe>
+
+Ages: 14-18 years
+The FIRST Robotics Competition is the flagship competition of FIRST. A large-scale robotics competition, FRC brings together students and mentors to build robots that perform in a competitive but gracious environment against teams from all over the world.
+
+In building their robot and doing all the other things that go with an FRC team, students learn valuable life skills like teamwork, collaboration, public speaking, technical science and engineering skills, Gracious Professionalism®, and others.
+
+In Australia, FRC teams compete at the Duel Down Under off-season events or official Regional competitions in Sydney or the USA.
+
+
+
+<blockquote>FRC is a robotics competition, not a robot-fighting contest…everyone asks.</blockquote>
+
+
+
+FRC is a robotics competition, not a robot-fighting contest (everyone asks…). FRC games are designed to be like team sports, and robots are not supposed to be intentionally harmed. FRC teams are guided by solid principles of teamwork, graciousness, cooperation, camaraderie and professionalism. The game is always as safe as can be ensured, and students are encouraged to be as friendly with other teams as they are with their own.
+
+The Teams
+An FRC team consists of high school students typically aged 14-18. These students have to work together to design, build, program and drive robots.
+
+Helping them are their adult mentors including industry engineers, school teachers, university lecturers, university students, FIRST alumni and others. These mentors use their experience to teach, guide and shape the students through the FRC program.
+
+Also supporting the teams are their sponsors. Be they large corporations with an interest in engineering, the school or university the team is based out of, or a supportive local business, teams are helped by many groups who provide funding, space, materials, tools, resources, mentors and publicity. Without these sponsors, teams would not be able to function.
+
+The Game
+In January each year, the FRC game is announced. This game changes every year, and teams are not permitted to use any robot part they built prior to the game being released – so they have to start building a new robot every year. Adding to the challenge, teams have to complete building their robots mid-February, giving them just about six weeks to brainstorm, design, prototype, build, program and learn to drive a robot. The robots themselves are up to 6 ft (2 meters) tall and weigh as much as 120 lbs (50 kgs).
+
+
+
+<blockquote>Try controlling a 50kg robot from 50 feet away!</blockquote>
+
+
+The game is always played on an 8 x 16m field (try controlling a 50kg robot from 50 feet away!), and is played by ‘alliances’ of three teams each.
+
+Robots work together to score points, play defense, and fend off other teams. If this sounds like a sporting event, there’s a reason for that – Dean Kamen, the founder of FIRST wanted to make Science, Technology and Engineering interesting to kids, so he designed a competition where people watch feats of engineering with the same gusto and excitement as they would sports matches. Most games are also designed to be similar to popular sports – the 2013 game, Ultimate Ascent, involved throwing frisbees into goals, the 2012 game, Rebound Rumble, involved shooting basketballs into hoops. The 2010 game, Breakaway, involved kicking footballs. And the most recent game…
+
+The Robot
+In order to build the robot during the short build season, teams have to design and build mechanical, electrical and software controls systems, as well as integrate them all into one remote-controlled machine. Students have the opportunity to learn engineering skills across several disciplines, whether they’re interested in shaping and assembling metal, working with electronics, programming controls systems in Java, C++ or National Instruments’ LabVIEW, wiring up robots, designing innovative mechanisms, or creating complex autonomous programs to autonomously aim, drive and shoot.
+
+Team members also learn cross-field skills like Computer-Aided Design (CAD), proper documentation practices, presentation skills and teamwork.
+
+Outreach
+One of the missions of FIRST is to spread the love of Science, Technology, Engineering and Mathematics (STEM) to as many people as possible. In order to achieve this, FIRST celebrates teams who spread STEM to their schools, communities, countries and the world.
+
+FRC encourages this practice by presenting teams who do this with the most prestigious award an FRC team can win – the Chairman’s Award. Teams who win this award at the FIRST Championships enter the FRC Hall of Fame.
+
+To perform this outreach and present it to FIRST judges, teams may design promotional materials, build websites, create animations, write industry quality business plans, write essays, perform presentations, and more. Naturally, teams do not have to do any of these things to compete in the robot competition…but these are some of the things that define the spirit of FIRST.
+
+The Competitions
+Every year, around March, FRC ‘regional’ competitions are run. Teams from all over the world travel to regionals to compete and earn their way to the World Championship event. Each regional has 24-60 teams competing in the robot game and presenting their outreach to judges. Held in April, the FIRST Championships bring hundreds of FRC teams together to play the game with and against each other.
+
+The first Australian FRC Regional was held at the Sydney Olympic Park in March 2015.  This successful first-ever event featured 37 registered teams from China, Taiwan, Singapore, USA, & Australia competed in the Sydney Olympic Park Sports Centre.  More information on the Australian FRC regional, click here.
+
+In Australia, all FRC teams can compete at the Duel Down Under, held in Sydney. This is an off-season event held each year as a cheaper and easier alternative to Regionals, and is also much later in the year (end of June) to give teams more time to prepare their robots. In 2012, 6 teams from NSW, VIC, TAS and SA competed, and 2014 saw 21 robots from around Australia and China competing.
+
+If you’re interested in starting an FRC team at your school, university, community group, etc…great! As long as you can get a decent number (10-30) kids aged 14-18, and can cover the rookie registration cost of USD$6500,  you can start assembling your team.  To find out more, click here.
+
+_______________________________________________________
+Recycle Rush: 2015
+FRC Recycle Rush 2015 logo
+RECYCLE RUSHSM is a recycling-themed game played by two Alliances of three robots each. Robots score points by stacking totes on scoring platforms, capping those stacks with recycling containers, and properly disposing of pool noodles, representing litter. In keeping with the recycling theme of the game, all game pieces used are reusable or recyclable by teams in their home locations or by FIRST® at the end of the season.
+
+Each Alliance competes on their respective 26 ft. by 27 ft. side of the playing field. Each match begins with a 15-second Autonomous Period in which robots operate independently of their drivers. During this period, robots attempt to earn points by moving themselves, their yellow totes, and their recycling containers into the area between the scoring platforms, called the Auto Zone.
+
+During the remaining two minutes and 15 seconds of the match, called the Teleop Period, robots are controlled remotely by student drivers located behind the walls at the ends of the field. Teams on an Alliance work together to place as many totes on their white scoring platforms as possible. Alliances earn additional points for recycling containers placed on the scored totes, with containers at greater height earning more points.
+
+Alliances also earn points for disposing of their litter in their Landfill Zone near the center of the field, or placing litter in or on scored recycling containers. Alliances that leave litter unprocessed on their side of the field at the end of the match, not in scoring position, will add points to the score of the other Alliance.
+
+Alliances have an opportunity to earn Coopertition® points by coordinating with the other Alliance in the match. Coopertition points are awarded if, at some point in the match, there are at least four yellow totes on the step simultaneously. Coopertition points are doubled if the Alliances arrange at least four of those yellow totes in a single stack on the step.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>178</wp:post_id>
+		<wp:post_date>2015-09-29 06:36:40</wp:post_date>
+		<wp:post_date_gmt>2015-09-29 06:36:40</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>first-robotics-competition</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>11</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>spacious_page_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
