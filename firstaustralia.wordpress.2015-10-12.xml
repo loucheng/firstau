@@ -27,13 +27,13 @@
 
 <channel>
 	<title>FIRST Australia</title>
-	<link>http://localhost/firstau</link>
+	<link>http://130.56.251.93/firstau</link>
 	<description></description>
 	<pubDate>Mon, 12 Oct 2015 07:07:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://localhost/firstau</wp:base_site_url>
-	<wp:base_blog_url>http://localhost/firstau</wp:base_blog_url>
+	<wp:base_site_url>http://130.56.251.93/firstau</wp:base_site_url>
+	<wp:base_blog_url>http://130.56.251.93/firstau</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>chenglou@hotmail.com</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>7</wp:author_id><wp:author_login>Jesus</wp:author_login><wp:author_email>jesus@yopmail.com</wp:author_email><wp:author_display_name><![CDATA[Jesus]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -48,19 +48,19 @@
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 
 <image>
-	<url>http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo2-32x32.png</url>
+	<url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo2-32x32.png</url>
 	<title> &#187; FIRST Australia</title>
-	<link>http://localhost/firstau</link>
+	<link>http://130.56.251.93/firstau</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 
 	<item>
 		<title>logo</title>
-		<link>http://localhost/firstau/?attachment_id=4</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=4</link>
 		<pubDate>Mon, 07 Sep 2015 08:28:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/09/logo.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/09/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -76,7 +76,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/09/logo.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/logo.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/logo.png]]></wp:meta_value>
@@ -88,12 +88,12 @@
 	</item>
 	<item>
 		<title>cropped-logo.png</title>
-		<link>http://localhost/firstau/?attachment_id=5</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=5</link>
 		<pubDate>Mon, 07 Sep 2015 08:28:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo.png]]></content:encoded>
+		<content:encoded><![CDATA[http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date>2015-09-07 08:28:25</wp:post_date>
@@ -107,7 +107,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/cropped-logo.png]]></wp:meta_value>
@@ -123,12 +123,12 @@
 	</item>
 	<item>
 		<title>cropped-logo1.png</title>
-		<link>http://localhost/firstau/?attachment_id=6</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=6</link>
 		<pubDate>Mon, 07 Sep 2015 08:29:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo1.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo1.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo1.png]]></content:encoded>
+		<content:encoded><![CDATA[http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo1.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date>2015-09-07 08:29:16</wp:post_date>
@@ -142,7 +142,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo1.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo1.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/cropped-logo1.png]]></wp:meta_value>
@@ -158,12 +158,12 @@
 	</item>
 	<item>
 		<title>cropped-logo2.png</title>
-		<link>http://localhost/firstau/?attachment_id=7</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=7</link>
 		<pubDate>Mon, 07 Sep 2015 08:29:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo2.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo2.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo2.png]]></content:encoded>
+		<content:encoded><![CDATA[http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo2.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date>2015-09-07 08:29:56</wp:post_date>
@@ -177,7 +177,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/09/cropped-logo2.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-logo2.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/cropped-logo2.png]]></wp:meta_value>
@@ -193,10 +193,10 @@
 	</item>
 	<item>
 		<title>p1</title>
-		<link>http://localhost/firstau/?attachment_id=8</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=8</link>
 		<pubDate>Mon, 07 Sep 2015 08:31:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/09/p1.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/09/p1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -212,7 +212,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/09/p1.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/p1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/p1.jpg]]></wp:meta_value>
@@ -228,10 +228,10 @@
 	</item>
 	<item>
 		<title>p2</title>
-		<link>http://localhost/firstau/?attachment_id=10</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=10</link>
 		<pubDate>Mon, 07 Sep 2015 08:42:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/09/p2.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/09/p2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -247,7 +247,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/09/p2.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/p2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/p2.jpg]]></wp:meta_value>
@@ -259,10 +259,10 @@
 	</item>
 	<item>
 		<title>Optimized-p3</title>
-		<link>http://localhost/firstau/?attachment_id=24</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=24</link>
 		<pubDate>Mon, 07 Sep 2015 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/09/Optimized-p3.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/09/Optimized-p3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -278,7 +278,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/09/Optimized-p3.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/Optimized-p3.jpg</wp:attachment_url>
 		<category domain="ml-slider" nicename="34"><![CDATA[34]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
@@ -307,10 +307,10 @@
 	</item>
 	<item>
 		<title>Optimized-p4</title>
-		<link>http://localhost/firstau/?attachment_id=25</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=25</link>
 		<pubDate>Mon, 07 Sep 2015 09:11:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/09/Optimized-p4.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/09/Optimized-p4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -326,7 +326,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/09/Optimized-p4.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/Optimized-p4.jpg</wp:attachment_url>
 		<category domain="ml-slider" nicename="34"><![CDATA[34]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
@@ -355,12 +355,12 @@
 	</item>
 	<item>
 		<title>cropped-Optimized-p4.jpg</title>
-		<link>http://localhost/firstau/?attachment_id=31</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=31</link>
 		<pubDate>Mon, 07 Sep 2015 09:31:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/09/cropped-Optimized-p4.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-Optimized-p4.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://localhost/firstau/wp-content/uploads/2015/09/cropped-Optimized-p4.jpg]]></content:encoded>
+		<content:encoded><![CDATA[http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-Optimized-p4.jpg]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date>2015-09-07 09:31:57</wp:post_date>
@@ -374,7 +374,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/09/cropped-Optimized-p4.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/09/cropped-Optimized-p4.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/cropped-Optimized-p4.jpg]]></wp:meta_value>
@@ -390,10 +390,10 @@
 	</item>
 	<item>
 		<title>FLL_Logo</title>
-		<link>http://localhost/firstau/home/fll_logo/</link>
+		<link>http://130.56.251.93/firstau/home/fll_logo/</link>
 		<pubDate>Thu, 08 Oct 2015 23:58:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/FLL_Logo.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLL_Logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -409,7 +409,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/FLL_Logo.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLL_Logo.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/FLL_Logo.png]]></wp:meta_value>
@@ -421,10 +421,10 @@
 	</item>
 	<item>
 		<title>FTC_Logo</title>
-		<link>http://localhost/firstau/home/ftc_logo/</link>
+		<link>http://130.56.251.93/firstau/home/ftc_logo/</link>
 		<pubDate>Thu, 08 Oct 2015 23:58:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/FTC_Logo.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTC_Logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -440,7 +440,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/FTC_Logo.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTC_Logo.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/FTC_Logo.png]]></wp:meta_value>
@@ -452,10 +452,10 @@
 	</item>
 	<item>
 		<title>FRC_Logo</title>
-		<link>http://localhost/firstau/home/frc_logo/</link>
+		<link>http://130.56.251.93/firstau/home/frc_logo/</link>
 		<pubDate>Thu, 08 Oct 2015 23:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/FRC_Logo.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/FRC_Logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -471,7 +471,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/FRC_Logo.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/FRC_Logo.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/FRC_Logo.png]]></wp:meta_value>
@@ -483,10 +483,10 @@
 	</item>
 	<item>
 		<title>OptimizedSlider3</title>
-		<link>http://localhost/firstau/?attachment_id=332</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=332</link>
 		<pubDate>Sat, 10 Oct 2015 09:52:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/OptimizedSlider3.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/OptimizedSlider3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -502,7 +502,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/OptimizedSlider3.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/OptimizedSlider3.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/OptimizedSlider3.jpg]]></wp:meta_value>
@@ -514,10 +514,10 @@
 	</item>
 	<item>
 		<title>2013_FIRST_FLL_St Louis</title>
-		<link>http://localhost/firstau/?attachment_id=333</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=333</link>
 		<pubDate>Sat, 10 Oct 2015 09:52:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/OptimizedSlider5.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/OptimizedSlider5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[2013_FIRST_FLL_St Louis]]></excerpt:encoded>
@@ -533,7 +533,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/OptimizedSlider5.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/OptimizedSlider5.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/OptimizedSlider5.jpg]]></wp:meta_value>
@@ -545,10 +545,10 @@
 	</item>
 	<item>
 		<title>2013_FIRST_FLL_St Louis</title>
-		<link>http://localhost/firstau/?attachment_id=334</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=334</link>
 		<pubDate>Sat, 10 Oct 2015 09:52:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/OptimizedSlider6.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/OptimizedSlider6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[2013_FIRST_FLL_St Louis]]></excerpt:encoded>
@@ -564,7 +564,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/OptimizedSlider6.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/OptimizedSlider6.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/OptimizedSlider6.jpg]]></wp:meta_value>
@@ -576,10 +576,10 @@
 	</item>
 	<item>
 		<title>2013_FIRST_FLL_St Louis</title>
-		<link>http://localhost/firstau/?attachment_id=335</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=335</link>
 		<pubDate>Sat, 10 Oct 2015 09:52:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/OptimzedSlider4.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/OptimzedSlider4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[2013_FIRST_FLL_St Louis]]></excerpt:encoded>
@@ -595,7 +595,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/OptimzedSlider4.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/OptimzedSlider4.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/OptimzedSlider4.jpg]]></wp:meta_value>
@@ -607,10 +607,10 @@
 	</item>
 	<item>
 		<title>FLLBanner</title>
-		<link>http://localhost/firstau/?attachment_id=337</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=337</link>
 		<pubDate>Sat, 10 Oct 2015 10:14:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/FLLBanner.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLLBanner.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -626,7 +626,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/FLLBanner.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLLBanner.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/FLLBanner.jpg]]></wp:meta_value>
@@ -638,10 +638,10 @@
 	</item>
 	<item>
 		<title>InfoForSchools</title>
-		<link>http://localhost/firstau/?attachment_id=339</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=339</link>
 		<pubDate>Sat, 10 Oct 2015 10:59:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/InfoForSchools.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/InfoForSchools.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -657,7 +657,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/InfoForSchools.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/InfoForSchools.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/InfoForSchools.jpg]]></wp:meta_value>
@@ -669,10 +669,10 @@
 	</item>
 	<item>
 		<title>FLLimg1</title>
-		<link>http://localhost/firstau/?attachment_id=344</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=344</link>
 		<pubDate>Sat, 10 Oct 2015 11:33:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/FLLimg1.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLLimg1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -688,7 +688,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/FLLimg1.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLLimg1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/FLLimg1.jpg]]></wp:meta_value>
@@ -700,10 +700,10 @@
 	</item>
 	<item>
 		<title>FTCimg2</title>
-		<link>http://localhost/firstau/?attachment_id=347</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=347</link>
 		<pubDate>Sat, 10 Oct 2015 11:55:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/FTCimg2.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTCimg2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -719,7 +719,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/FTCimg2.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTCimg2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/FTCimg2.jpg]]></wp:meta_value>
@@ -731,10 +731,10 @@
 	</item>
 	<item>
 		<title>New Slider</title>
-		<link>http://localhost/firstau/?post_type=ml-slider&#038;p=34</link>
+		<link>http://130.56.251.93/firstau/?post_type=ml-slider&#038;p=34</link>
 		<pubDate>Mon, 07 Sep 2015 10:21:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=ml-slider&#038;p=34</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=ml-slider&#038;p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -757,10 +757,10 @@
 	</item>
 	<item>
 		<title>First Robotics Australia Annoucements</title>
-		<link>http://localhost/firstau/forums/forum/first-robotics-australia-annoucements/</link>
+		<link>http://130.56.251.93/firstau/forums/forum/first-robotics-australia-annoucements/</link>
 		<pubDate>Fri, 11 Sep 2015 01:48:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=forum&#038;p=36</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=forum&#038;p=36</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -827,10 +827,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/?p=167</link>
+		<link>http://130.56.251.93/firstau/?p=167</link>
 		<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=167</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=167</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -885,10 +885,10 @@
 	</item>
 	<item>
 		<title>Programs</title>
-		<link>http://localhost/firstau/?p=171</link>
+		<link>http://130.56.251.93/firstau/?p=171</link>
 		<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=171</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=171</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -943,10 +943,10 @@
 	</item>
 	<item>
 		<title>Junior FIRST Lego League</title>
-		<link>http://localhost/firstau/forums/forum/junior-first-lego-league/</link>
+		<link>http://130.56.251.93/firstau/forums/forum/junior-first-lego-league/</link>
 		<pubDate>Thu, 01 Oct 2015 03:32:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=forum&#038;p=178</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=forum&#038;p=178</guid>
 		<description></description>
 		<content:encoded><![CDATA[Learn about every Lego League]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1017,10 +1017,10 @@
 	</item>
 	<item>
 		<title>FIRST Lego League</title>
-		<link>http://localhost/firstau/forums/forum/first-lego-league/</link>
+		<link>http://130.56.251.93/firstau/forums/forum/first-lego-league/</link>
 		<pubDate>Thu, 01 Oct 2015 03:36:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=forum&#038;p=181</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=forum&#038;p=181</guid>
 		<description></description>
 		<content:encoded><![CDATA[Everything Lego League Ages: 9-16 years]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1091,10 +1091,10 @@
 	</item>
 	<item>
 		<title>FIRST Tech Challenge</title>
-		<link>http://localhost/firstau/forums/forum/first-tech-challenge/</link>
+		<link>http://130.56.251.93/firstau/forums/forum/first-tech-challenge/</link>
 		<pubDate>Thu, 01 Oct 2015 03:37:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=forum&#038;p=183</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=forum&#038;p=183</guid>
 		<description></description>
 		<content:encoded><![CDATA[Everything Tech Challenge, Ages: 14-18 Years]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1165,10 +1165,10 @@
 	</item>
 	<item>
 		<title>Volunteering and Mentoring</title>
-		<link>http://localhost/firstau/forums/forum/volunteering-and-mentoring/</link>
+		<link>http://130.56.251.93/firstau/forums/forum/volunteering-and-mentoring/</link>
 		<pubDate>Thu, 01 Oct 2015 03:38:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=forum&#038;p=185</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=forum&#038;p=185</guid>
 		<description></description>
 		<content:encoded><![CDATA[To learn about possible Volunteering and Mentoring programs, All in here.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1235,10 +1235,10 @@
 	</item>
 	<item>
 		<title>FTCimg1</title>
-		<link>http://localhost/firstau/?attachment_id=348</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=348</link>
 		<pubDate>Sat, 10 Oct 2015 11:55:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/FTCimg1.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTCimg1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1254,7 +1254,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/FTCimg1.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTCimg1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/FTCimg1.jpg]]></wp:meta_value>
@@ -1266,10 +1266,10 @@
 	</item>
 	<item>
 		<title>FTCimg3</title>
-		<link>http://localhost/firstau/?attachment_id=349</link>
+		<link>http://130.56.251.93/firstau/?attachment_id=349</link>
 		<pubDate>Sat, 10 Oct 2015 12:03:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/FTCimg3.jpg</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTCimg3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1285,7 +1285,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/FTCimg3.jpg</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTCimg3.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/FTCimg3.jpg]]></wp:meta_value>
@@ -1297,10 +1297,10 @@
 	</item>
 	<item>
 		<title>aarnet</title>
-		<link>http://localhost/firstau/the_logo_slider/360/aarnet/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/aarnet/</link>
 		<pubDate>Mon, 12 Oct 2015 05:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/aarnet.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/aarnet.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1316,7 +1316,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/aarnet.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/aarnet.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/aarnet.png]]></wp:meta_value>
@@ -1328,10 +1328,10 @@
 	</item>
 	<item>
 		<title>andymark</title>
-		<link>http://localhost/firstau/the_logo_slider/360/andymark/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/andymark/</link>
 		<pubDate>Mon, 12 Oct 2015 05:51:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/andymark.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/andymark.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1347,7 +1347,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/andymark.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/andymark.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/andymark.png]]></wp:meta_value>
@@ -1359,10 +1359,10 @@
 	</item>
 	<item>
 		<title>autodesk</title>
-		<link>http://localhost/firstau/the_logo_slider/360/autodesk/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/autodesk/</link>
 		<pubDate>Mon, 12 Oct 2015 05:51:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/autodesk.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/autodesk.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1378,7 +1378,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/autodesk.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/autodesk.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/autodesk.png]]></wp:meta_value>
@@ -1390,10 +1390,10 @@
 	</item>
 	<item>
 		<title>bae-systems</title>
-		<link>http://localhost/firstau/the_logo_slider/360/bae-systems/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/bae-systems/</link>
 		<pubDate>Mon, 12 Oct 2015 05:51:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/bae-systems.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/bae-systems.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1409,7 +1409,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/bae-systems.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/bae-systems.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/bae-systems.png]]></wp:meta_value>
@@ -1421,10 +1421,10 @@
 	</item>
 	<item>
 		<title>ford</title>
-		<link>http://localhost/firstau/the_logo_slider/360/ford/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/ford/</link>
 		<pubDate>Mon, 12 Oct 2015 05:51:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/ford.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/ford.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1440,7 +1440,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/ford.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/ford.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/ford.png]]></wp:meta_value>
@@ -1452,10 +1452,10 @@
 	</item>
 	<item>
 		<title>Google</title>
-		<link>http://localhost/firstau/the_logo_slider/360/google/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/google/</link>
 		<pubDate>Mon, 12 Oct 2015 05:51:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/Google.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/Google.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1471,7 +1471,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/Google.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/Google.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/Google.png]]></wp:meta_value>
@@ -1483,10 +1483,10 @@
 	</item>
 	<item>
 		<title>lego-education</title>
-		<link>http://localhost/firstau/the_logo_slider/360/lego-education/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/lego-education/</link>
 		<pubDate>Mon, 12 Oct 2015 05:51:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/lego-education.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/lego-education.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1502,7 +1502,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/lego-education.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/lego-education.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/lego-education.png]]></wp:meta_value>
@@ -1514,10 +1514,10 @@
 	</item>
 	<item>
 		<title>macqaurie-logo-250x250</title>
-		<link>http://localhost/firstau/the_logo_slider/360/macqaurie-logo-250x250/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/macqaurie-logo-250x250/</link>
 		<pubDate>Mon, 12 Oct 2015 05:52:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/macqaurie-logo-250x250.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/macqaurie-logo-250x250.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1533,7 +1533,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/macqaurie-logo-250x250.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/macqaurie-logo-250x250.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/macqaurie-logo-250x250.png]]></wp:meta_value>
@@ -1545,10 +1545,10 @@
 	</item>
 	<item>
 		<title>national-instruments</title>
-		<link>http://localhost/firstau/the_logo_slider/360/national-instruments/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/national-instruments/</link>
 		<pubDate>Mon, 12 Oct 2015 05:52:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/national-instruments.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/national-instruments.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1564,7 +1564,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/national-instruments.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/national-instruments.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/national-instruments.png]]></wp:meta_value>
@@ -1576,10 +1576,10 @@
 	</item>
 	<item>
 		<title>rockwell-automation</title>
-		<link>http://localhost/firstau/the_logo_slider/360/rockwell-automation/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/rockwell-automation/</link>
 		<pubDate>Mon, 12 Oct 2015 05:52:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/wp-content/uploads/2015/10/rockwell-automation.png</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/wp-content/uploads/2015/10/rockwell-automation.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1595,7 +1595,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/firstau/wp-content/uploads/2015/10/rockwell-automation.png</wp:attachment_url>
+		<wp:attachment_url>http://130.56.251.93/firstau/wp-content/uploads/2015/10/rockwell-automation.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/rockwell-automation.png]]></wp:meta_value>
@@ -1607,10 +1607,10 @@
 	</item>
 	<item>
 		<title>Contact Us</title>
-		<link>http://localhost/firstau/2015/09/07/23/</link>
+		<link>http://130.56.251.93/firstau/2015/09/07/23/</link>
 		<pubDate>Mon, 07 Sep 2015 08:48:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/07/23/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/07/23/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1662,10 +1662,10 @@
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://localhost/firstau/2015/09/07/home/</link>
+		<link>http://130.56.251.93/firstau/2015/09/07/home/</link>
 		<pubDate>Mon, 07 Sep 2015 09:15:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/07/home/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/07/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1712,15 +1712,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://localhost/firstau]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://130.56.251.93/firstau]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/07/contact-us/</link>
+		<link>http://130.56.251.93/firstau/2015/09/07/contact-us/</link>
 		<pubDate>Mon, 07 Sep 2015 10:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/07/contact-us/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/07/contact-us/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1772,10 +1772,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/11/55/</link>
+		<link>http://130.56.251.93/firstau/2015/09/11/55/</link>
 		<pubDate>Fri, 11 Sep 2015 02:31:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=55</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=55</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1827,10 +1827,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/11/56/</link>
+		<link>http://130.56.251.93/firstau/2015/09/11/56/</link>
 		<pubDate>Fri, 11 Sep 2015 02:31:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=56</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=56</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1882,10 +1882,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/67/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/67/</link>
 		<pubDate>Fri, 18 Sep 2015 01:13:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/67/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/67/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1937,10 +1937,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/74/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/74/</link>
 		<pubDate>Fri, 18 Sep 2015 01:16:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/74/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/74/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1992,10 +1992,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/77/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/77/</link>
 		<pubDate>Fri, 18 Sep 2015 01:16:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/77/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/77/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2047,10 +2047,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/80/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/80/</link>
 		<pubDate>Fri, 18 Sep 2015 01:16:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/80/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/80/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2102,10 +2102,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/83/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/83/</link>
 		<pubDate>Fri, 18 Sep 2015 01:16:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/83/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/83/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2157,10 +2157,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/86/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/86/</link>
 		<pubDate>Fri, 18 Sep 2015 01:17:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/86/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/86/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2212,10 +2212,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/93/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/93/</link>
 		<pubDate>Fri, 18 Sep 2015 01:18:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/93/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/93/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2267,10 +2267,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/102/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/102/</link>
 		<pubDate>Fri, 18 Sep 2015 01:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/102/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/102/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2322,10 +2322,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/105/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/105/</link>
 		<pubDate>Fri, 18 Sep 2015 01:19:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/105/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/105/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2377,10 +2377,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/108/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/108/</link>
 		<pubDate>Fri, 18 Sep 2015 01:19:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/108/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/108/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2432,10 +2432,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/111/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/111/</link>
 		<pubDate>Fri, 18 Sep 2015 01:19:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/111/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/111/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2487,10 +2487,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/115/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/115/</link>
 		<pubDate>Fri, 18 Sep 2015 01:22:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/115/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/115/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2542,10 +2542,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/18/118/</link>
+		<link>http://130.56.251.93/firstau/2015/09/18/118/</link>
 		<pubDate>Fri, 18 Sep 2015 01:30:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/2015/09/18/118/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/2015/09/18/118/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2597,10 +2597,10 @@
 	</item>
 	<item>
 		<title>Start a FLL Team</title>
-		<link>http://localhost/firstau/2015/09/22/148/</link>
+		<link>http://130.56.251.93/firstau/2015/09/22/148/</link>
 		<pubDate>Tue, 22 Sep 2015 07:22:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=148</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=148</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2652,10 +2652,10 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/22/153/</link>
+		<link>http://130.56.251.93/firstau/2015/09/22/153/</link>
 		<pubDate>Tue, 22 Sep 2015 07:27:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=153</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=153</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2707,10 +2707,10 @@
 	</item>
 	<item>
 		<title>Programs</title>
-		<link>http://localhost/firstau/programs/</link>
+		<link>http://130.56.251.93/firstau/programs/</link>
 		<pubDate>Mon, 07 Sep 2015 08:45:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=11</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2741,10 +2741,10 @@
 	</item>
 	<item>
 		<title>Contact Us</title>
-		<link>http://localhost/firstau/contact-us/</link>
+		<link>http://130.56.251.93/firstau/contact-us/</link>
 		<pubDate>Mon, 07 Sep 2015 08:46:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=16</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=16</guid>
 		<description></description>
 		<content:encoded><![CDATA[For further information about <em>FIRST</em> please contact:
 
@@ -2804,10 +2804,10 @@ Phone: +61 432 853 961
 	</item>
 	<item>
 		<title>About Us</title>
-		<link>http://localhost/firstau/about-us/</link>
+		<link>http://130.56.251.93/firstau/about-us/</link>
 		<pubDate>Mon, 07 Sep 2015 08:46:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=19</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2838,10 +2838,10 @@ Phone: +61 432 853 961
 	</item>
 	<item>
 		<title>Forums</title>
-		<link>http://localhost/firstau/forums/</link>
+		<link>http://130.56.251.93/firstau/forums/</link>
 		<pubDate>Fri, 11 Sep 2015 01:53:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=40</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=40</guid>
 		<description></description>
 		<content:encoded><![CDATA[[bbp-forum-index]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2872,10 +2872,10 @@ Phone: +61 432 853 961
 	</item>
 	<item>
 		<title>Login</title>
-		<link>http://localhost/firstau/forums/login-2/</link>
+		<link>http://130.56.251.93/firstau/forums/login-2/</link>
 		<pubDate>Fri, 11 Sep 2015 02:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=49</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=49</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ajax_login]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2906,10 +2906,10 @@ Phone: +61 432 853 961
 	</item>
 	<item>
 		<title>Register</title>
-		<link>http://localhost/firstau/forums/register/</link>
+		<link>http://130.56.251.93/firstau/forums/register/</link>
 		<pubDate>Fri, 11 Sep 2015 02:29:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=52</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=52</guid>
 		<description></description>
 		<content:encoded><![CDATA[[ajax_register]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2940,10 +2940,10 @@ Phone: +61 432 853 961
 	</item>
 	<item>
 		<title>History</title>
-		<link>http://localhost/firstau/about-us/history/</link>
+		<link>http://130.56.251.93/firstau/about-us/history/</link>
 		<pubDate>Fri, 18 Sep 2015 01:13:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=66</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=66</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://www.youtube.com/embed/RqWQETtBlZg" width="700" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -2990,10 +2990,10 @@ For more information, please visit <a href="http://www.usfirst.org/">usfirst.org
 	</item>
 	<item>
 		<title>Junior FIRST Lego League</title>
-		<link>http://localhost/firstau/programs/junior-first-lego-league/</link>
+		<link>http://130.56.251.93/firstau/programs/junior-first-lego-league/</link>
 		<pubDate>Fri, 18 Sep 2015 01:16:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=73</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=73</guid>
 		<description></description>
 		<content:encoded><![CDATA[<iframe src="https://www.youtube.com/embed/woThaOOIhvE" width="800" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -3063,10 +3063,10 @@ For more information on Junior <em>FIRST®</em> LEGO® League, please contact <
 	</item>
 	<item>
 		<title>FIRST Lego League</title>
-		<link>http://localhost/firstau/programs/first-lego-league/</link>
+		<link>http://130.56.251.93/firstau/programs/first-lego-league/</link>
 		<pubDate>Fri, 18 Sep 2015 01:16:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=76</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=76</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img class="aligncenter size-full wp-image-1155" src="http://firstaustralia.science.mq.edu.au/wp-content/uploads/2014/05/Online-RegistrationOpen.png" alt="Online RegistrationOpen" width="800" height="315">
 
@@ -3075,7 +3075,7 @@ For more information on Junior <em>FIRST®</em> LEGO® League, please contact <
 
 <hr />
 
-<img src="http://localhost/firstau/wp-content/uploads/2015/10/FLLimg1.jpg" width="800" height="315">
+<img src="http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLLimg1.jpg" width="800" height="315">
 
 FLL is a multi-part competition judged on three important elements:
 <h4 style="padding-left: 30px;"><span style="color: #333399;">1. Robot</span></h4>
@@ -3168,10 +3168,10 @@ FLL practice kits from previous seasons are available at a discounted rate.  Th
 	</item>
 	<item>
 		<title>FIRST Tech Challenge</title>
-		<link>http://localhost/firstau/programs/first-tech-challenge/</link>
+		<link>http://130.56.251.93/firstau/programs/first-tech-challenge/</link>
 		<pubDate>Fri, 18 Sep 2015 01:16:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=79</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=79</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1 style="padding-left: 30px;"><span style="color: #333399;">Ages: 14-18 Years</span></h1>
 <iframe src="https://www.youtube.com/embed/5jln45FMoNI" width="800" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -3190,7 +3190,7 @@ FTC is designed for high school students to compete head to head, using a spor
 	<li>Qualify for over $13.5 million in international university scholarships</li>
 </ul>
 
-<img src="http://localhost/firstau/wp-content/uploads/2015/10/FTCimg1.jpg">
+<img src="http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTCimg1.jpg">
 
 The FTC season opens in September with the release of that year’s game, and teams then have until December to prepare before the Australian National FTC tournament.  The best teams from the national tournament are then chosen to represent Australia at the <em>FIRST </em>World Championships in Saint Louis, USA.
 
@@ -3205,7 +3205,7 @@ Grace Lutheran College</strong></p>
 <p style="padding-left: 30px;"><strong>Australian National Tournament (December 5th – 6th),
 Macquarie University</strong></p>
 
-<img src="http://localhost/firstau/wp-content/uploads/2015/10/FTCimg3.jpg">
+<img src="http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTCimg3.jpg">
 
 <hr />
 
@@ -3216,7 +3216,7 @@ Registration for FTC 2015 Season is now available.  Please follow the following
 	<li><a href="https://www.firstaustralia.org/systems/ftcregistration/" target="_blank">FIRST Australia Registration System </a>(FTC Registration fee will be paid to FIRST Australia via invoice.)</li>
 	<li><a href="https://my.usfirst.org/ftc/tims/site.lasso" target="_blank">US FIRST Registration System</a> (Parts/Kits will be purchased via this link.)</li>
 </ul>
-For more information, <a href="http://localhost/firstau/contact-us/" target="_blank">contact us</a>.
+For more information, <a href="http://130.56.251.93/firstau/contact-us/" target="_blank">contact us</a>.
 
 <hr />
 
@@ -3249,10 +3249,10 @@ For more information, <a href="http://localhost/firstau/contact-us/" target="_b
 	</item>
 	<item>
 		<title>RoboCamps</title>
-		<link>http://localhost/firstau/programs/robocamps/</link>
+		<link>http://130.56.251.93/firstau/programs/robocamps/</link>
 		<pubDate>Fri, 18 Sep 2015 01:16:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=82</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=82</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="wrap container">
 <div class="content row">
@@ -3329,10 +3329,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/09/22/155/</link>
+		<link>http://130.56.251.93/firstau/2015/09/22/155/</link>
 		<pubDate>Tue, 22 Sep 2015 07:27:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=155</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=155</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3384,10 +3384,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title>About Us</title>
-		<link>http://localhost/firstau/2015/09/23/about-us-2/</link>
+		<link>http://130.56.251.93/firstau/2015/09/23/about-us-2/</link>
 		<pubDate>Wed, 23 Sep 2015 12:09:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=170</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=170</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3439,10 +3439,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title>Programs</title>
-		<link>http://localhost/firstau/2015/09/23/programs/</link>
+		<link>http://130.56.251.93/firstau/2015/09/23/programs/</link>
 		<pubDate>Wed, 23 Sep 2015 12:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=172</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=172</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3494,10 +3494,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title>Get Involved</title>
-		<link>http://localhost/firstau/2015/09/23/get-involved/</link>
+		<link>http://130.56.251.93/firstau/2015/09/23/get-involved/</link>
 		<pubDate>Wed, 23 Sep 2015 12:15:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=173</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=173</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3549,10 +3549,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title>Start a Team</title>
-		<link>http://localhost/firstau/2015/09/23/start-a-team/</link>
+		<link>http://130.56.251.93/firstau/2015/09/23/start-a-team/</link>
 		<pubDate>Wed, 23 Sep 2015 12:15:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=174</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=174</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3604,10 +3604,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title>News/Events</title>
-		<link>http://localhost/firstau/2015/09/23/newsevents/</link>
+		<link>http://130.56.251.93/firstau/2015/09/23/newsevents/</link>
 		<pubDate>Wed, 23 Sep 2015 12:19:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=176</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=176</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3659,10 +3659,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title>Forums</title>
-		<link>http://localhost/firstau/?page_id=190</link>
+		<link>http://130.56.251.93/firstau/?page_id=190</link>
 		<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=190</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=190</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3685,10 +3685,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/10/02/191/</link>
+		<link>http://130.56.251.93/firstau/2015/10/02/191/</link>
 		<pubDate>Fri, 02 Oct 2015 00:10:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=191</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=191</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3740,10 +3740,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/2015/10/02/194/</link>
+		<link>http://130.56.251.93/firstau/2015/10/02/194/</link>
 		<pubDate>Fri, 02 Oct 2015 00:15:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=194</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=194</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3795,10 +3795,10 @@ If you have difficulties with registration, or do not receive a confirmation wit
 	</item>
 	<item>
 		<title>Sample Page</title>
-		<link>http://localhost/firstau/sample-page/</link>
+		<link>http://130.56.251.93/firstau/sample-page/</link>
 		<pubDate>Mon, 07 Sep 2015 08:13:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=2</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
@@ -3808,7 +3808,7 @@ If you have difficulties with registration, or do not receive a confirmation wit
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="http://localhost/firstau/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+As a new WordPress user, you should go to <a href="http://130.56.251.93/firstau/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date>2015-09-07 08:13:30</wp:post_date>
@@ -3837,10 +3837,10 @@ As a new WordPress user, you should go to <a href="http://localhost/firstau/wp-a
 	</item>
 	<item>
 		<title>Test</title>
-		<link>http://localhost/firstau/test/</link>
+		<link>http://130.56.251.93/firstau/test/</link>
 		<pubDate>Fri, 18 Sep 2015 00:55:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=62</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=62</guid>
 		<description></description>
 		<content:encoded><![CDATA["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 <h3>Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC</h3>
@@ -3885,10 +3885,10 @@ As a new WordPress user, you should go to <a href="http://localhost/firstau/wp-a
 	</item>
 	<item>
 		<title>Vision</title>
-		<link>http://localhost/firstau/vision/</link>
+		<link>http://130.56.251.93/firstau/vision/</link>
 		<pubDate>Fri, 18 Sep 2015 01:15:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=70</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=70</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3927,10 +3927,10 @@ As a new WordPress user, you should go to <a href="http://localhost/firstau/wp-a
 	</item>
 	<item>
 		<title>Become a Volunteer/Mentor</title>
-		<link>http://localhost/firstau/get-involved/volunteer/</link>
+		<link>http://130.56.251.93/firstau/get-involved/volunteer/</link>
 		<pubDate>Fri, 18 Sep 2015 01:17:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=85</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=85</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h3 style="padding-left: 30px;"><span style="color: #333399;">Volunteer</span></h3>
 <em>FIRST</em>® Australia relies on and greatly appreciates volunteers in all our programs.
@@ -3971,7 +3971,7 @@ Teaching students through <em>FIRST</em> mentorship is both fun and rewarding, a
 
 FIRST mentors don’t have to have technical experience or skills. Students also need to learn public speaking and collaboration, research and presentation, organisation and critical thinking skills. Even such skills as video editing, business analysis, marketing and animation have an important place in FIRST. New mentors can also go to <a href="http://www.youtube.com/user/FIRSTStepLivetoair"><em>FIRST</em> Step on YouTube</a> to get quality advice from veteran mentors.
 
-For further information, questions about mentoring, or to get in touch with a team near you, please <a href="http://localhost/firstau/contact-us/" target="_blank">contact us.</a>
+For further information, questions about mentoring, or to get in touch with a team near you, please <a href="http://130.56.251.93/firstau/contact-us/" target="_blank">contact us.</a>
 
 <hr />
 
@@ -4004,10 +4004,10 @@ For further information, questions about mentoring, or to get in touch with a te
 	</item>
 	<item>
 		<title>Get Involved</title>
-		<link>http://localhost/firstau/get-involved/</link>
+		<link>http://130.56.251.93/firstau/get-involved/</link>
 		<pubDate>Fri, 18 Sep 2015 01:18:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=89</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=89</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4038,10 +4038,10 @@ For further information, questions about mentoring, or to get in touch with a te
 	</item>
 	<item>
 		<title>Sponsorships</title>
-		<link>http://localhost/firstau/get-involved/sponsorships/</link>
+		<link>http://130.56.251.93/firstau/get-involved/sponsorships/</link>
 		<pubDate>Fri, 18 Sep 2015 01:18:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=92</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=92</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="page-header">
 
@@ -4079,9 +4079,9 @@ For further information, questions about mentoring, or to get in touch with a te
 
 <hr />
 
-Sponsors can choose to support individual teams (<a title="FIRST LEGO® League" href="http://localhost/firstau/get-involved/start-a-team/start-an-fll-team/" target="_blank">FLL</a>, <a title="FIRST Tech Challenge" href="http://localhost/firstau/get-involved/start-a-team/start-a-ftc-team/" target="_blank">FTC </a>or <a title="FIRST Robotics Competition" href="http://localhost/firstau/get-involved/start-a-team/start-a-frc-team/" target="_blank">FRC</a>) in a variety of ways.  <em>FIRST</em>Australia is also looking for sponsorship to run events like the Sydney FRC Regional, as well as to promote <em>FIRST</em> in Australian schools and businesses.
+Sponsors can choose to support individual teams (<a title="FIRST LEGO® League" href="http://130.56.251.93/firstau/get-involved/start-a-team/start-an-fll-team/" target="_blank">FLL</a>, <a title="FIRST Tech Challenge" href="http://130.56.251.93/firstau/get-involved/start-a-team/start-a-ftc-team/" target="_blank">FTC </a>or <a title="FIRST Robotics Competition" href="http://130.56.251.93/firstau/get-involved/start-a-team/start-a-frc-team/" target="_blank">FRC</a>) in a variety of ways.  <em>FIRST</em>Australia is also looking for sponsorship to run events like the Sydney FRC Regional, as well as to promote <em>FIRST</em> in Australian schools and businesses.
 
-For further information please <a href="http://localhost/firstau/contact-us/" target="_blank">contact us</a>.
+For further information please <a href="http://130.56.251.93/firstau/contact-us/" target="_blank">contact us</a>.
 
 <hr />
 
@@ -4114,10 +4114,10 @@ For further information please <a href="http://localhost/firstau/contact-us/" ta
 	</item>
 	<item>
 		<title>Start a Team</title>
-		<link>http://localhost/firstau/get-involved/start-a-team/</link>
+		<link>http://130.56.251.93/firstau/get-involved/start-a-team/</link>
 		<pubDate>Fri, 18 Sep 2015 01:19:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=98</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=98</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4148,10 +4148,10 @@ For further information please <a href="http://localhost/firstau/contact-us/" ta
 	</item>
 	<item>
 		<title>Info for Parents</title>
-		<link>http://localhost/firstau/get-involved/info-for-parents/</link>
+		<link>http://130.56.251.93/firstau/get-involved/info-for-parents/</link>
 		<pubDate>Fri, 18 Sep 2015 01:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=101</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=101</guid>
 		<description></description>
 		<content:encoded><![CDATA[<em>FIRST</em> is an internationally acclaimed robotics program that inspires a passion for Science, Technology, Engineering and Maths in young people.
 
@@ -4184,7 +4184,7 @@ Worldwide, there are over <a href="http://www.usfirst.org/aboutus/scholarships"
 	<li>Two $1,000 scholarships for domestic (Australian) students undertaking an Engineering Bachelor’s degree at Macquarie University who participated in <a title="FIRST Robotics Competition" href="http://firstaustralia.org/competitions/first-robotics-competition/">FRC®</a> or <a title="FIRST Tech Challenge" href="http://firstaustralia.org/competitions/first-tech-challenge/">FTC®</a> in their last year of high school. To apply, a student requires a high school transcript and a letter of recommendation from an adult mentor involved with their team.</li>
 	<li>Two $20,000 scholarships for international students undertaking an Engineering Bachelor’s degree at Macquarie University who participated in FRC or FTC in their last year of high school. To apply, a student requires a high school transcript and a letter of recommendation from an adult mentor involved with their team.</li>
 </ol>
-For more information, please <a title="Contact Us" href="http://localhost/firstau/contact-us/" target="_blank">contact us</a>.
+For more information, please <a title="Contact Us" href="http://130.56.251.93/firstau/contact-us/" target="_blank">contact us</a>.
 
 <small><sup>1</sup> <a href="http://www.usfirst.org/aboutus/impact">FIRST Robotics Impact Study</a></small>
 
@@ -4219,10 +4219,10 @@ For more information, please <a title="Contact Us" href="http://localhost/first
 	</item>
 	<item>
 		<title>Info for Schools</title>
-		<link>http://localhost/firstau/get-involved/info-for-schools/</link>
+		<link>http://130.56.251.93/firstau/get-involved/info-for-schools/</link>
 		<pubDate>Fri, 18 Sep 2015 01:19:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=104</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=104</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img class="alignnone size-full wp-image-582" src="http://firstaustralia.science.mq.edu.au/wp-content/uploads/2014/05/548306_287912951306490_787745012_n1.jpg" alt="548306_287912951306490_787745012_n[1]" width="960" height="640">
 
@@ -4248,7 +4248,7 @@ The cheapest and easiest option for schools to get involved with <em>FIRST </em>
 There are currently regional qualifying tournaments in Sydney, Melbourne, Brisbane, Adelaide and Perth, and the national tournament is held in Sydney.
 
 At <a href="http://www.firstlegoleague.org/challenge/teamresources">usfirst.org</a>, you can find guides and a coaches handbook to help you start and run your FLL team.
-<div class="alert alert-info" style="padding-left: 30px;"><a title="Start An FLL Team" href="http://localhost/firstau/get-involved/start-a-team/start-an-fll-team/" target="_blank">More Information: Starting An FLL team &gt;</a></div>
+<div class="alert alert-info" style="padding-left: 30px;"><a title="Start An FLL Team" href="http://130.56.251.93/firstau/get-involved/start-a-team/start-an-fll-team/" target="_blank">More Information: Starting An FLL team &gt;</a></div>
 <div class="alert alert-info">
 
 <hr />
@@ -4258,7 +4258,7 @@ At <a href="http://www.firstlegoleague.org/challenge/teamresources">usfirst.org<
 An alternative to FLL for high school – students can join the team in year 7 and stay with it for several years. Just like FLL, <em>FIRST</em> Tech Challenge teams needa LEGO Mindstorms kit which is reusable year after year, and they also need a reusable TETRIX or Matrix Robotics kit.
 
 There are currently 3 regional competitions in Australia, and all teams are invited to compete at the national tournament in Sydney. The most successful teams in the Sydney National competition are also invited to attend the World Championships in the United States.
-<div class="alert alert-info" style="padding-left: 30px;"><a title="Start An FTC Team" href="http://localhost/firstau/get-involved/start-a-team/start-a-ftc-team/" target="_blank">More Information: Starting An FTC team &gt;</a></div>
+<div class="alert alert-info" style="padding-left: 30px;"><a title="Start An FTC Team" href="http://130.56.251.93/firstau/get-involved/start-a-team/start-a-ftc-team/" target="_blank">More Information: Starting An FTC team &gt;</a></div>
 
 <hr />
 
@@ -4274,7 +4274,7 @@ Each year, the game is announced in early January, at which point teams can star
 For more information on competing domestically or internationally, please <a href="https://firstaustralia.org/first/contact-us">contact us</a>.
 
 FRC requires more time, money, space and manpower than FLL or FTC. The students’ experience of <em>FIRST</em> has been described as ‘the hardest fun they’ll ever have’, and FRC is the most intense, challenging and rewarding of the three programs. Australia has FRC teams from schools such as Normanhurst Boys’ High School (Sydney), the King David School (Melbourne), Barker College (Sydney) and St. Mary’s Senior High School (Sydney).  As of 2014, there is even an Indigenous FRC team from the Batchelor Institute, NT.
-<div class="alert alert-info" style="padding-left: 30px;"><a title="Start An FRC Team" href="http://localhost/firstau/get-involved/start-a-team/start-a-frc-team/" target="_blank">More Information: Starting An FRC team &gt;</a></div>
+<div class="alert alert-info" style="padding-left: 30px;"><a title="Start An FRC Team" href="http://130.56.251.93/firstau/get-involved/start-a-team/start-a-frc-team/" target="_blank">More Information: Starting An FRC team &gt;</a></div>
 <div class="alert alert-info">
 
 <hr />
@@ -4283,7 +4283,7 @@ FRC requires more time, money, space and manpower than FLL or FTC. The students�
 <h4 style="padding-left: 30px;"><span style="color: #333399;">Host a tournament</span></h4>
 Schools have the opportunity to host <em>FIRST</em> events at all levels. For instance, the Duel Down Under FRC competition has been held at Barker College since 2012, and Cedars Christian College is a first-time venue for FLL in 2014.
 
-If your school is interested in hosting a tournament or you would like more information, please <a href="http://localhost/firstau/contact-us/" target="_blank">contact us</a>.
+If your school is interested in hosting a tournament or you would like more information, please <a href="http://130.56.251.93/firstau/contact-us/" target="_blank">contact us</a>.
 
 <hr />
 
@@ -4319,10 +4319,10 @@ If your school is interested in hosting a tournament or you would like more info
 	</item>
 	<item>
 		<title>News and Events</title>
-		<link>http://localhost/firstau/news-and-events/</link>
+		<link>http://130.56.251.93/firstau/news-and-events/</link>
 		<pubDate>Fri, 18 Sep 2015 01:19:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=107</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=107</guid>
 		<description></description>
 		<content:encoded><![CDATA[News
 Asia Pacific FTC Invitational results
@@ -4392,10 +4392,10 @@ Congratulations to the following award winners who competed in the Adelaide FLL 
 	</item>
 	<item>
 		<title>Seasonal Events</title>
-		<link>http://localhost/firstau/news-and-events/seasonal-events/</link>
+		<link>http://130.56.251.93/firstau/news-and-events/seasonal-events/</link>
 		<pubDate>Fri, 18 Sep 2015 01:19:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=110</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=110</guid>
 		<description></description>
 		<content:encoded><![CDATA[FRC Twitter Plate
 Untitled design (3)
@@ -4412,7 +4412,7 @@ checkbox blue  Qualify for over $20 million in college scholarships
 
 For information relating to the FRC Program in Australia, please click here.
 
- 
+
 
 2014 Championship.
 
@@ -4454,7 +4454,7 @@ Click Here for EventBrite Listing
 Students/Teachers/Principals
 Workshops & Speakers TBA.
 
- 
+
 
 Event VOLUNTEERS
 Many volunteer positions are available for the competition.  Meals and training are provided.  If you would like to volunteer or receive information on the type of positions that need to be filled, please email Marie Efstathaniou: emarie@google.com
@@ -4466,23 +4466,23 @@ Volunteers repair and reset the playing field after each team match. They play a
 Practice Day
 Day 1 of Competition
 Day 2 of Competition
-Practice Field Attendants: 
+Practice Field Attendants:
 Schedule teams on the practice field. Must be organized and have the ability to maintain time schedules, and have knowledge of the game. Clean practice fields after matches. Opportunity to interact with students. These folks monitor field use to discourage teams from monopolizing the area when others are waiting to use it.
 
 Practice Day
 Day 1 of Competition
 Day 2 of Competition
- 
 
-Safety Glasses Attendants: 
+
+Safety Glasses Attendants:
 Safety Glasses Attendants hand out safety glasses during the event in the pit area. Ensure all teams, volunteers and spectators are wearing safety glasses at all times while in the Pits. Maintain adequate supply of safety glasses at the safety glasses locations, alert the Lead Safety Glasses Attendant when more glasses or volunteers are needed.  Maintain a high level of safety as stated in the FIRST Safety Procedures.
 
 Practice Day
 Day 1 of Competition
 Day 2 of Competition
- 
 
-Team Queuers: 
+
+Team Queuers:
 Team Queuing volunteers are responsible for managing team traffic to and from the playing field. Team Queuers will stage and position teams in preparation for the start of matches. They play a critical role in ensuring smooth flow of match play and maintaining the pace of the event. The Lead Team Queuer will provide training during the Volunteer Orientation and Dinner.
 
 Practice Day
@@ -4516,10 +4516,10 @@ Day 2 of Competition]]></content:encoded>
 	</item>
 	<item>
 		<title>Grant Applications</title>
-		<link>http://localhost/firstau/get-involved/grant-applications/</link>
+		<link>http://130.56.251.93/firstau/get-involved/grant-applications/</link>
 		<pubDate>Fri, 18 Sep 2015 01:22:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=114</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=114</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img class="aligncenter size-large wp-image-1225" src="http://firstaustralia.science.mq.edu.au/wp-content/uploads/2015/07/20151-1024x341.png" alt="2015" width="1024" height="341">
 
@@ -4607,10 +4607,10 @@ Ready to apply?  Complete the form below!
 	</item>
 	<item>
 		<title>Vision</title>
-		<link>http://localhost/firstau/about-us/vision/</link>
+		<link>http://130.56.251.93/firstau/about-us/vision/</link>
 		<pubDate>Fri, 18 Sep 2015 01:30:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=117</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=117</guid>
 		<description></description>
 		<content:encoded><![CDATA[<hr />
 <p style="text-align: center;"><em><strong>To transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology leaders.</strong></em></p>
@@ -4677,12 +4677,12 @@ Coopertition involves learning from teammates. It is teaching teammates. It is l
 	</item>
 	<item>
 		<title>Start a FLL Team</title>
-		<link>http://localhost/firstau/get-involved/start-a-team/start-a-fll-team/</link>
+		<link>http://130.56.251.93/firstau/get-involved/start-a-team/start-a-fll-team/</link>
 		<pubDate>Tue, 22 Sep 2015 07:21:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=146</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=146</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img src="http://localhost/firstau/wp-content/uploads/2015/10/FLLBanner.jpg">
+		<content:encoded><![CDATA[<img src="http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLLBanner.jpg">
 
 <em>FIRST</em> LEGO League (FLL®) is a competition catering for upper-primary and lower-secondary school students. Every year, teams of up to 10 students build, program and compete with a robot, while also learning about a modern problem in science and engineering and developing solutions for it.  The entire competition for the year is based around one of these themes: Past themes include natural disasters, senior citizens, food health &amp; safety, climate change, medical science, and nanotechnology.  Tournaments are run with the feel of a sporting event, and teams compete like crazy while having the time of their lives.  What FLL teams accomplish is nothing short of amazing. It’s fun. It’s exciting. And the skills they learn will last a lifetime.
 
@@ -4755,10 +4755,10 @@ FLL practice kits from previous seasons are available at a discounted rate.  Th
 	</item>
 	<item>
 		<title>Start a FTC Team</title>
-		<link>http://localhost/firstau/get-involved/start-a-team/start-a-ftc-team/</link>
+		<link>http://130.56.251.93/firstau/get-involved/start-a-team/start-a-ftc-team/</link>
 		<pubDate>Tue, 22 Sep 2015 07:24:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=149</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=149</guid>
 		<description></description>
 		<content:encoded><![CDATA[<em>FIRST®</em>  Tech Challenge is incredibly rewarding, and a much cheaper alternative for 14-18 year olds than <em>FIRST®</em> Robotics Competition.
 
@@ -4809,10 +4809,10 @@ There are currently 2 Australian regional competitions for <em>FIRST®</em> Te
 	</item>
 	<item>
 		<title>Start a FRC Team</title>
-		<link>http://localhost/firstau/get-involved/start-a-team/start-a-frc-team/</link>
+		<link>http://130.56.251.93/firstau/get-involved/start-a-team/start-a-frc-team/</link>
 		<pubDate>Tue, 22 Sep 2015 07:25:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=151</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=151</guid>
 		<description></description>
 		<content:encoded><![CDATA[Starting an FRC team is a challenging venture to embark on. Teams consist of 10-50 students between 14 and 18 years old, typically have 3-20 adult mentors from various sources (industry engineers, parents, teachers, etc.) to guide them, and require a lot of money and more space to run than FLL or FTC, due to the size of the robots.
 
@@ -4830,7 +4830,7 @@ Australian teams have two options for competition:
 
 <hr />
 
-Both of these events are held in Sydney, so interstate teams should factor in a travel budget for at least 4 team members to compete. For information on competing internationally, please <a href="http://localhost/firstau/contact-us/" target="_blank">contact us</a>.
+Both of these events are held in Sydney, so interstate teams should factor in a travel budget for at least 4 team members to compete. For information on competing internationally, please <a href="http://130.56.251.93/firstau/contact-us/" target="_blank">contact us</a>.
 
 FRC requires more time, money, space and manpower than FLL or FTC, but the rewards are also great. The students’ experience of FIRST has been described as ‘the hardest fun they’ll ever have’, and FRC is considered the most intense, most challenging and most rewarding of the three programs.
 
@@ -4865,10 +4865,10 @@ FRC requires more time, money, space and manpower than FLL or FTC, but the rewar
 	</item>
 	<item>
 		<title>Test</title>
-		<link>http://localhost/firstau/test-2/</link>
+		<link>http://130.56.251.93/firstau/test-2/</link>
 		<pubDate>Wed, 23 Sep 2015 11:51:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=164</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=164</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4907,10 +4907,10 @@ FRC requires more time, money, space and manpower than FLL or FTC, but the rewar
 	</item>
 	<item>
 		<title>FIRST Robotics Competition</title>
-		<link>http://localhost/firstau/programs/first-robotics-competition/</link>
+		<link>http://130.56.251.93/firstau/programs/first-robotics-competition/</link>
 		<pubDate>Fri, 02 Oct 2015 00:14:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=192</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=192</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1 style="padding-left: 30px;"><span style="color: #333399;">Ages: 14-18 years</span></h1>
 <iframe src="https://www.youtube.com/embed/ncgK1gyJnAI" width="800" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -4940,7 +4940,7 @@ Helping them are their adult mentors including industry engineers, school teache
 
 Also supporting the teams are their sponsors. Be they large corporations with an interest in engineering, the school or university the team is based out of, or a supportive local business, teams are helped by many groups who provide funding, space, materials, tools, resources, mentors and publicity. Without these sponsors, teams would not be able to function.
 
-<img src="http://localhost/firstau/wp-content/uploads/2015/10/FLLimg1.jpg">
+<img src="http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLLimg1.jpg">
 
 <hr />
 
@@ -5033,10 +5033,10 @@ Alliances have an opportunity to earn Coopertition® points by coordinating with
 	</item>
 	<item>
 		<title>TEST TEST TEST</title>
-		<link>http://localhost/firstau/?p=195</link>
+		<link>http://130.56.251.93/firstau/?p=195</link>
 		<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[Jesus]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?p=195</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?p=195</guid>
 		<description></description>
 		<content:encoded><![CDATA[3rawaweaweaweaw]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5064,35 +5064,35 @@ Alliances have an opportunity to earn Coopertition® points by coordinating with
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://localhost/firstau/</link>
+		<link>http://130.56.251.93/firstau/</link>
 		<pubDate>Thu, 08 Oct 2015 23:56:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?page_id=301</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?page_id=301</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div id="content" class="clearfix"><section id="spacious_service_widget-2" class="widget widget_service_block clearfix">
 <div class="tg-one-third">
-<div class="service-image"><img class="attachment-featured wp-post-image" src="http://localhost/firstau/wp-content/uploads/2015/10/FLL_Logo-300x150.png" alt="time" width="150" height="150" /></div>
-<h3 class="widget-title"><a title="FLL" href="http://localhost/firstau/programs/first-lego-league/">First Lego League</a></h3>
+<div class="service-image"><img class="attachment-featured wp-post-image" src="http://130.56.251.93/firstau/wp-content/uploads/2015/10/FLL_Logo-300x150.png" alt="time" width="150" height="150" /></div>
+<h3 class="widget-title"><a title="FLL" href="http://130.56.251.93/firstau/programs/first-lego-league/">First Lego League</a></h3>
 22,840 teams
 228,400 students
 From nearly 80 countries
 <div class="more-link-wrap"><a class="more-link" title="First Lego League">Read more</a></div>
 </div>
 <div class="tg-one-third">
-<div class="service-image"><img class="attachment-featured wp-post-image" src="http://localhost/firstau/wp-content/uploads/2015/10/FTC_Logo-300x150.png" alt="responsive" width="150" height="150" /></div>
-<h3 class="widget-title"><a title="FTC" href="http://localhost/firstau/programs/first-tech-challenge/">First Tech Challenge</a></h3>
+<div class="service-image"><img class="attachment-featured wp-post-image" src="http://130.56.251.93/firstau/wp-content/uploads/2015/10/FTC_Logo-300x150.png" alt="responsive" width="150" height="150" /></div>
+<h3 class="widget-title"><a title="FTC" href="http://130.56.251.93/firstau/programs/first-tech-challenge/">First Tech Challenge</a></h3>
 3,236 teams
 32,360 students
 200+ tournaments worldwide
-<div class="more-link-wrap"><a class="more-link" title="First Tech Challenge" href="http://localhost/firstau/programs/first-tech-challenge/">Read more</a></div>
+<div class="more-link-wrap"><a class="more-link" title="First Tech Challenge" href="http://130.56.251.93/firstau/programs/first-tech-challenge/">Read more</a></div>
 </div>
 <div class="tg-one-third">
-<div class="service-image"><img class="attachment-featured wp-post-image" src="http://localhost/firstau/wp-content/uploads/2015/10/FRC_Logo-300x150.png" alt="support" width="150" height="150" /></div>
-<h3 class="widget-title"><a title="FBC" href="http://localhost/firstau/programs/first-robotics-competition/">First Robotics Competition</a></h3>
+<div class="service-image"><img class="attachment-featured wp-post-image" src="http://130.56.251.93/firstau/wp-content/uploads/2015/10/FRC_Logo-300x150.png" alt="support" width="150" height="150" /></div>
+<h3 class="widget-title"><a title="FBC" href="http://130.56.251.93/firstau/programs/first-robotics-competition/">First Robotics Competition</a></h3>
 2,720 teams
 68,000 high-school students
 98 tournaments worldwide
-<div class="more-link-wrap"><a class="more-link" title="First Robotics Competition" href="http://localhost/firstau/programs/first-robotics-competition/">Read more</a></div>
+<div class="more-link-wrap"><a class="more-link" title="First Robotics Competition" href="http://130.56.251.93/firstau/programs/first-robotics-competition/">Read more</a></div>
 </div>
 </section></div>
 &nbsp;
@@ -5128,10 +5128,10 @@ From nearly 80 countries
 	</item>
 	<item>
 		<title>Contact Us</title>
-		<link>http://localhost/firstau/?post_type=wpcf7_contact_form&#038;p=60</link>
+		<link>http://130.56.251.93/firstau/?post_type=wpcf7_contact_form&#038;p=60</link>
 		<pubDate>Fri, 11 Sep 2015 02:42:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=wpcf7_contact_form&#038;p=60</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=wpcf7_contact_form&#038;p=60</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>Your Name (required)<br />
     [text* your-name] </p>
@@ -5155,7 +5155,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on First Australia (http://localhost/firstau)
+This e-mail was sent from a contact form on First Australia (http://130.56.251.93/firstau)
 chenglou@hotmail.com
 Reply-To: [your-email]
 
@@ -5168,7 +5168,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on First Australia (http://localhost/firstau)
+This e-mail was sent from a contact form on First Australia (http://130.56.251.93/firstau)
 [your-email]
 Reply-To: chenglou@hotmail.com
 
@@ -5235,7 +5235,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on First Australia (http://localhost/firstau)";s:9:"recipient";s:20:"chenglou@hotmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on First Australia (http://130.56.251.93/firstau)";s:9:"recipient";s:20:"chenglou@hotmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_mail_2</wp:meta_key>
@@ -5243,7 +5243,7 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 [your-message]
 
 --
-This e-mail was sent from a contact form on First Australia (http://localhost/firstau)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:30:"Reply-To: chenglou@hotmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on First Australia (http://130.56.251.93/firstau)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:30:"Reply-To: chenglou@hotmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_messages</wp:meta_key>
@@ -5260,10 +5260,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title>Welcome</title>
-		<link>http://localhost/firstau/forums/topic/welcome/</link>
+		<link>http://130.56.251.93/firstau/forums/topic/welcome/</link>
 		<pubDate>Thu, 01 Oct 2015 03:34:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/forums/topic/welcome/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/forums/topic/welcome/</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is where we describe the basic forum content and stuff]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5318,10 +5318,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title>HOW TO BECOME A VOLUNTEER</title>
-		<link>http://localhost/firstau/forums/topic/how-to-become-a-volunteer/</link>
+		<link>http://130.56.251.93/firstau/forums/topic/how-to-become-a-volunteer/</link>
 		<pubDate>Thu, 01 Oct 2015 03:41:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/forums/topic/how-to-become-a-volunteer/</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/forums/topic/how-to-become-a-volunteer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[FILL THIS OUT
 
@@ -5378,10 +5378,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/360/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/360/</link>
 		<pubDate>Mon, 12 Oct 2015 05:52:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=360</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=360</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5412,10 +5412,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/371/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/371/</link>
 		<pubDate>Mon, 12 Oct 2015 05:52:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=371</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=371</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5446,10 +5446,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/374/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/374/</link>
 		<pubDate>Mon, 12 Oct 2015 05:56:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=374</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=374</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5480,10 +5480,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/375/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/375/</link>
 		<pubDate>Mon, 12 Oct 2015 05:56:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=375</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=375</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5514,10 +5514,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/376/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/376/</link>
 		<pubDate>Mon, 12 Oct 2015 05:57:04 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=376</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=376</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5548,10 +5548,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/heyyy/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/heyyy/</link>
 		<pubDate>Mon, 12 Oct 2015 05:57:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=377</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=377</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5582,10 +5582,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/378/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/378/</link>
 		<pubDate>Mon, 12 Oct 2015 05:57:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=378</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=378</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5616,10 +5616,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/379/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/379/</link>
 		<pubDate>Mon, 12 Oct 2015 05:58:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=379</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=379</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5650,10 +5650,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/381/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/381/</link>
 		<pubDate>Mon, 12 Oct 2015 05:58:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=381</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=381</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5684,10 +5684,10 @@ This e-mail was sent from a contact form on First Australia (http://localhost/fi
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/firstau/the_logo_slider/382/</link>
+		<link>http://130.56.251.93/firstau/the_logo_slider/382/</link>
 		<pubDate>Mon, 12 Oct 2015 05:59:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/firstau/?post_type=the_logo_slider&#038;p=382</guid>
+		<guid isPermaLink="false">http://130.56.251.93/firstau/?post_type=the_logo_slider&#038;p=382</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
